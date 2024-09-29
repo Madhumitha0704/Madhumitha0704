@@ -1,4 +1,5 @@
 ## Hi there 👋
+## I am Madhumitha 👩‍🦰 , an optimistic and self-motivated person. I believe "Hardwork and Consistency will make a person to grow up⚡. Learn! Grow!" 
 🔭 I’m currently pursuing bachelors in information technology<br>👯 I’m looking to collaborate on frontend projects<br>🌱 I’m currently learning react js<br>
 
 
